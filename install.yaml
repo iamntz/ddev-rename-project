@@ -1,4 +1,4 @@
 name: ddev-rename-project
 
-project_files:
+global_files:
   - commands/host/rename-project
