@@ -1,12 +1,20 @@
 ## Installation:
 
+For DDEV v1.23.5 or above run
+
+```sh
+ddev add-on get iamntz/ddev-rename-project
 ```
-$ ddev get iamntz/ddev-rename-project
+
+For earlier versions of DDEV run
+
+```sh
+ddev get iamntz/ddev-rename-project
 ```
 
 ## Usage:
 
-```
+```sh
 ddev rename-project my-new-project
 ```
 
